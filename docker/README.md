@@ -1,6 +1,6 @@
-# Docker Setup for Knowledge Palace
 
-This folder contains the Docker setup for the Knowledge Palace project.
+
+This folder contains the Docker setup
 
 ## Services
 
